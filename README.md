@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vishal
-- I,m passionate competative programmer! 2 star on codechef
+- 👋 Hi, I’m Vishal Singh Final Year student pursuing Dream
+
 
 <!---
 techie-coder-github/techie-coder-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
