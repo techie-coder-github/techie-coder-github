@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal Singh Final Year Student Pursuing Dream
+- 👋 Hi, I’m Vishal Singh.
 
 
 <!---
